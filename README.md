@@ -12,7 +12,7 @@
 
 ### Engineering literacy
 
-### performance optimization
+### Performance optimization
 
 ### Network technology
 
